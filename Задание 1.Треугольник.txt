@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Изучаем WebGL WebGL</title>
+</head>
+<body>
+<canvas id="canvas3D" width="400" height="300">Ваш браузер не поддерживает элемент
+canvas</canvas>
+</body>
+</html>
