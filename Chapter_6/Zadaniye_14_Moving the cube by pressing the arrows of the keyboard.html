@@ -3,30 +3,27 @@
 <head>
     <title>3D in WebGL!</title>
     <meta charset="utf-8" />
-</head>
+    <head>
+    </head>
 <body>
-<h2> <em>Глава №5, Задание №12. Разноцветный куб.</em></h2>
+<h2> <em>Глава №6, Задание №14. Перемещение куба по нажатию стрелок клавиатуры.</em></h2>
 <canvas id="canvas3D" width="400" height="300">Ваш браузер не поддерживает элемент canvas</canvas>
 <script  type="text/javascript" src="../js/gl-matrix-min.js"></script>
 
 <script id="shader-fs" type="x-shader/x-fragment">
-varying highp vec4 vColor;
   void main(void) {
-    gl_FragColor = vColor;
+    gl_FragColor = vec4(0.0, 1.0, 0.0, 1.0);
   }
 </script>
 
 <script id="shader-vs" type="x-shader/x-vertex">
-attribute vec3 aVertexPosition;
-attribute vec3 aVertexColor;
-varying highp vec4 vColor;
-uniform mat4 uMVMatrix;
-uniform mat4 uPMatrix;
+  attribute vec3 aVertexPosition;
+   uniform mat4 uMVMatrix;
+  uniform mat4 uPMatrix;
   void main(void) {
      gl_Position = uPMatrix * uMVMatrix * vec4(aVertexPosition, 1.0);
-      vColor = vec4(aVertexColor, 1.0);
   }
 </script>
-<script src="../js/Глава_5_задание_12.js"></script>
+<script src="../js/Chap_6_Zad_14.js"></script>
 </body>
 </html>

@@ -17,8 +17,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="98" column="54" lean-forward="true" selection-start-line="98" selection-start-column="54" selection-end-line="98" selection-end-column="54" />
+            <state relative-caret-position="2142">
+              <caret line="126" column="14" lean-forward="true" selection-start-line="126" selection-start-column="14" selection-end-line="126" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Indiv_1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_1/Indiv_1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -57,6 +67,8 @@
         <option value="$PROJECT_DIR$/js/Глава_7_задание_17.js" />
         <option value="$PROJECT_DIR$/js/Глава_7_задание_18.js" />
         <option value="$PROJECT_DIR$/Глава №7/Задание17.Текстурирование 3D-объектов.html" />
+        <option value="$PROJECT_DIR$/Chapter_1/Zadaniye_1_Triangle.html" />
+        <option value="$PROJECT_DIR$/Chapter_1/Zadaniye_2_Rotating cube.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -99,7 +111,47 @@
             <path>
               <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
               <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
-              <item name="Глава №8" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -157,18 +209,18 @@
       <workItem from="1509092354923" duration="1744000" />
       <workItem from="1509137776531" duration="6381000" />
       <workItem from="1511967093324" duration="2114000" />
-      <workItem from="1512124197618" duration="5944000" />
+      <workItem from="1512124197618" duration="8939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20653000" />
+    <option name="totallyTimeSpent" value="23648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1647145" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18448023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -197,7 +249,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Глава №6/Задание 13. Анимационный куб..html">
+    <entry file="file://$PROJECT_DIR$/Chapter_6/Zadaniye_13_Animation cube.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
@@ -205,7 +257,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №7/Задание 15.Текстурирование прямоугольника.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_7/Zadaniye_15_Texturing a rectangle.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -221,10 +273,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №1/Задание 1.Треугольник.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_1/Zadaniye_1_Triangle.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -236,10 +289,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №1/Задание 1.Треугольник.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_1/Zadaniye_1_Triangle.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="12" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="29" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -251,42 +305,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №1/Задание 1.Треугольник.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_1/Zadaniye_1_Triangle.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Глава_1_Задание_1.js">
+    <entry file="file://$PROJECT_DIR$/js/Chap_1_Zad_1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №1/Задание 2. Вращающийся куб.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_1/Zadaniye_2_Rotating cube.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №1/Индивидуальное задание №2.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_1/Indiv_2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Глава_1_Задание_2.js">
+    <entry file="file://$PROJECT_DIR$/js/Chap_1_Zad_2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №1/Индивидуальное задание №1.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_1/Indiv_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
@@ -294,14 +349,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/Гл1_пр_1.js" />
-    <entry file="file://$PROJECT_DIR$/js/Глава_1_Задание_2.js">
+    <entry file="file://$PROJECT_DIR$/js/Chap_1_Zad_2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №1/Индивидуальное задание №2.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_1/Indiv_2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
@@ -309,63 +364,42 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12.html" />
-    <entry file="file://$PROJECT_DIR$/js/Глава_1_Задание_1.js">
+    <entry file="file://$PROJECT_DIR$/js/Chap_1_Zad_1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="57" column="17" lean-forward="true" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №1/Задание 2. Вращающийся куб.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="52" lean-forward="true" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №3/Задание 8. Рисование линий с использованием шейдеров.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_3/Zadaniye_8_Drawing lines using shaders.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №5/Задание 10.Создание 3D-куба без использования матриц.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_5/Zadaniye_10_Creating a 3D cube without using matrices.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №5/Задание 11.Создание 3D-куба c использованием матриц.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_5/Zadaniye_11_Creating a 3D cube using matrices.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Инд.зад_1.js">
+    <entry file="file://$PROJECT_DIR$/js/Indiv_zad_1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №1/Индивидуальное задание №1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №1/Задание 1.Треугольник.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №6/Задание 13. Анимационный куб..html">
+    <entry file="file://$PROJECT_DIR$/Chapter_6/Zadaniye_13_Animation cube.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
@@ -373,23 +407,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №6/Задание 14.Перемещение куба по нажатию стрелок клавиатуры.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №7/Задание 16. Работа с координатами текстуры.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Глава_7_задание_16.js">
+    <entry file="file://$PROJECT_DIR$/js/Chap_7_Zad_16.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
           <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
@@ -397,15 +415,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №7/Задание18.Множественное текстурирование.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Глава_7_задание_18.js">
+    <entry file="file://$PROJECT_DIR$/js/Chap_7_Zad_18.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="289" column="0" lean-forward="true" selection-start-line="289" selection-start-column="0" selection-end-line="289" selection-end-column="0" />
@@ -413,7 +423,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Глава_7_задание_17.js">
+    <entry file="file://$PROJECT_DIR$/js/Chap_7_Zad_17.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="163" column="42" lean-forward="true" selection-start-line="163" selection-start-column="42" selection-end-line="163" selection-end-column="42" />
@@ -421,23 +431,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №7/Задание17.Текстурирование 3D-объектов.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №7/Задание 15.Текстурирование прямоугольника.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Глава_7_задание_15.js">
+    <entry file="file://$PROJECT_DIR$/js/Chap_7_Zad_15.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
           <caret line="96" column="42" lean-forward="true" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="42" />
@@ -445,7 +439,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №8/Задание19.Модель отражения Фонга.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_2/Zadaniye_3_The square of two triangles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_2/Zadaniye_4_Two triangles.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -453,7 +455,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №8/Задание21.Освещение Ламберта.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_1/Zadaniye_2_Rotating cube.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_1/Zadaniye_1_Triangle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_2/Zadaniye_6_Fan of triangles.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -461,18 +479,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Глава №8/Задание20.Использование материалов при отражении.html">
+    <entry file="file://$PROJECT_DIR$/Chapter_8/Zadaniye_21_Lambert Lighting.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_8/Zadaniye_20_Use of materials in reflection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_8/Zadaniye_19_Phong reflection model.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_7/Zadaniye_18_Multiple Texturing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_7/Zadaniye_17_Texturing 3D-objects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_7/Zadaniye_16_Working with texture coordinates.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_6/Zadaniye_14_Moving the cube by pressing the arrows of the keyboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_7/Zadaniye_15_Texturing a rectangle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_1/Indiv_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="98" column="54" lean-forward="true" selection-start-line="98" selection-start-column="54" selection-end-line="98" selection-end-column="54" />
+        <state relative-caret-position="2142">
+          <caret line="126" column="14" lean-forward="true" selection-start-line="126" selection-start-column="14" selection-end-line="126" selection-end-column="14" />
           <folding />
         </state>
       </provider>

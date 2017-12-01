@@ -5,21 +5,19 @@
     <meta charset="utf-8" />
 </head>
 <body>
-<h2> <em>Глава №3, Задание №8. Отрисовка линий с использованием шейдеров.</em></h2>
+<h2> <em>Глава №2, Задание №7. Рисование линий.</em></h2>
 <canvas id="canvas3D" width="400" height="300">Ваш браузер не поддерживает элемент canvas</canvas>
-<!-- фрагментный шейдер -->
 <script id="shader-fs" type="x-shader/x-fragment">
   void main(void) {
-    gl_FragColor = vec4(0.0, 1.0, 0.0, 1.0);
+    gl_FragColor = vec4(1.0, 1.0, 1.0, 1.0);
   }
 </script>
-<!-- вершинный шейдер -->
 <script id="shader-vs" type="x-shader/x-vertex">
   attribute vec3 aVertexPosition;
   void main(void) {
     gl_Position = vec4(aVertexPosition, 1.0);
   }
 </script>
-<script src="../js/Глава_3_задание_8.js"></script>
+<script src="../js/Chap_2_Zad_7.js"></script>
 </body>
 </html>
