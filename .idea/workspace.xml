@@ -81,26 +81,6 @@
               <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
               <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
-              <item name="Images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
-              <item name="Глава №6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CCG-Antonova" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CCG-Antonova" type="462c0819:PsiDirectoryNode" />
-              <item name="Глава №7" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -157,15 +137,16 @@
       <workItem from="1509092354923" duration="1744000" />
       <workItem from="1509137776531" duration="6381000" />
       <workItem from="1511967093324" duration="2114000" />
-      <workItem from="1512124197618" duration="1575000" />
+      <workItem from="1512124197618" duration="2426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16284000" />
+    <option name="totallyTimeSpent" value="17135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33308932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
