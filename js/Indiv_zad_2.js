@@ -36,8 +36,13 @@ window.onload=function(){
 
         requestAnimationFrame(animate);
         // вращение меша вокруг осей
+<<<<<<< HEAD
         mesh.rotation.x += 0.1;
         mesh.rotation.y += 0.08;
+=======
+        mesh.rotation.x += 0.01;
+        mesh.rotation.y += 0.02;
+>>>>>>> Develop
         // рендеринг сцены - метод, производящий по сути отрисовку
         renderer.render(scene, camera);
     }

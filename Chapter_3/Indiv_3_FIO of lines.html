@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebGL</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+<h2> <em>Индивидуальное задание №3 к главам 2 и 3. Инициалы из линий.</em></h2>
+<canvas id="canvas3D" width="400" height="300">Ваш браузер не поддерживает элемент canvas</canvas>
+<script id="shader-fs" type="x-shader/x-fragment">
+  void main(void) {
+    gl_FragColor = vec4(1.0, 1.0, 1.0, 1.0);
+  }
+</script>
+<script id="shader-vs" type="x-shader/x-vertex">
+  attribute vec3 aVertexPosition;
+  void main(void) {
+    gl_Position = vec4(aVertexPosition, 1.0);
+  }
+</script>
+<script src="../js/Indiv_zad_3.js"></script>
+</body>
+</html>
