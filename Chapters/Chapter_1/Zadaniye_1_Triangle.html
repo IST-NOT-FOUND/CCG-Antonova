@@ -1,11 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> WebGL </title>
-<meta charset="utf-8" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> Computer graphics and geometry" </title>
+
+    <link href="../../css/bootstrap.css" rel="stylesheet">
 </head>
 <body>
-<h2> <em>Глава №1, Задание №1. Белый треугольник на красном фоне.</em></h2>
+<nav class="navbar navbar-inverse">.
+    <a class="navbar-brand" href="#"><strong><em>Компьютерная геометрия и графика</em></strong></a>
+</nav>
+
+<div class="container">
+
+    <div class="navbar-collapse collapse" style="height: 1px;">
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href ="../../index.html" class="btn btn-info ">Главная страница</a></li>
+            <li><a href="../Chapter_1/Indiv_1.html" class="btn btn-info ">Индивидуальное задание к главе №1</a></li>
+            <li><a href="../Chapter_1/Zadaniye_2_Rotating%20cube.html" class="btn btn-info ">Задание №2</a></li>
+            <li><a href="../Chapter_2/Zadaniye_3_The%20square%20of%20two%20triangles.html" class="btn btn-info ">Глава №2</a></li>
+        </ul>
+    </div>
+
+    <div class="page-header">
+        <h1>Глава №1, Задание №1. Белый треугольник на красном фоне.</h1>
+    </div>
+
+    </br>
+    <canvas id="canvas3D" width="400" height="300">Ваш браузер не поддерживает элемент canvas</canvas>
+</div>
+
 <canvas id="canvas3D" width="400" height="300">Ваш браузер не поддерживает элемент canvas
 canvas</canvas>
 <!-- фрагментный шейдер -->
@@ -28,5 +54,11 @@ gl_Position = vec4(aVertexPosition, 1.0);
   }
 </script>
 <script src="../../js/Chapter_1/Chap_1_Zad_1.js"></script>
+<script src="../../js/gl-matrix.js"></script>
+<script src="../../js/jquery-3.2.1.min.js"></script>
+<script src="../../js/bootstrap.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 </body>
 </html>
