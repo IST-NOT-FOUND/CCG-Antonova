@@ -48,7 +48,7 @@ function main() {
 
     const buffers = initBuffers(gl);
 
-    const texture = loadTexture(gl, "../Images/metal.jpg");
+    const texture = loadTexture(gl, "../../Images/metal.jpg");
 
     var then = 0;
 

@@ -286,10 +286,10 @@ function setupWebGL()
 }
 function setupTextures() {
     wallTexture = gl.createTexture();
-    setTexture("../Images/brickwall.png", wallTexture);
+    setTexture("../../Images/brickwall.png", wallTexture);
 
     roofTexture = gl.createTexture();
-    setTexture("../Images/stone1.jpg", roofTexture);
+    setTexture("../../Images/stone1.jpg", roofTexture);
 
 }
 function setTexture(url, texture){
