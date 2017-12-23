@@ -1,12 +1,46 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>3D in WebGL!</title>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> Computer graphics and geometry" </title>
+
+    <!-- Bootstrap CSS -->
+    <link href="../../css/bootstrap.css" rel="stylesheet">
 </head>
 <body>
-<h2> <em>Глава №5, Задание №12. Разноцветный куб.</em></h2>
+<nav class="navbar navbar-inverse">.
+    <a class="navbar-brand" href="#"><strong><em>Компьютерная геометрия и графика</em></strong></a>
+</nav>
+
+<div class="container">
+
+    <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+            <li><a href ="../../index.html" class="btn btn-info ">Главная страница</a></li>
+            <li><a href="../Chapter_5/Indiv_5_%20Change%20the%20color%20of%20the%20vertices%20of%20the%20cube%20when%20you%20click%20the%20button.html" class="btn btn-info ">Индивидуальное задание к главе №5</a></li>
+            <li>
+                <a  href="#" class="btn btn-info " data-toggle="dropdown"> Задания из текущей главы <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="../Chapter_5/Zadaniye_10_Creating%20a%203D%20cube%20without%20using%20matrices.html"> <em>Задание №10</em></a></li>
+                    <li><a href="../Chapter_5/Zadaniye_11_Creating%20a%203D%20cube%20using%20matrices.html"> <em>Задание №11</em></a></li>
+                </ul>
+            </li>
+            <li class="divider"></li>
+
+        </ul>
+    </div>
+
+    <div class="page-header">
+        <h1>Глава №5, Задание №12. Разноцветный куб.</h1>
+    </div>
+
+    </br>
+
 <canvas id="canvas3D" width="400" height="300">Ваш браузер не поддерживает элемент canvas</canvas>
+</div>
 <script  type="text/javascript" src="../../js/gl-matrix-min.js"></script>
 
 <script id="shader-fs" type="x-shader/x-fragment">
@@ -28,5 +62,8 @@ uniform mat4 uPMatrix;
   }
 </script>
 <script src="../../js/Chapter_5/Chap_5_Zad_12.js"></script>
+<script src="../../js/gl-matrix.js"></script>
+<script src="../../js/jquery-3.2.1.min.js"></script>
+<script src="../../js/bootstrap.min.js"></script>
 </body>
 </html>
