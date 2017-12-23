@@ -15,18 +15,27 @@
 
 <div class="container">
 
-    <div class="navbar-collapse collapse" style="height: 1px;">
+    <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
             <li><a href ="../../index.html" class="btn btn-info ">Главная страница</a></li>
             <li><a href="../Chapter_1/Indiv_1.html" class="btn btn-info ">Индивидуальное задание к главе №1</a></li>
-            <li><a href="../Chapter_1/Zadaniye_2_Rotating%20cube.html" class="btn btn-info ">Задание №2</a></li>
-            <li><a href="../Chapter_2/Zadaniye_3_The%20square%20of%20two%20triangles.html" class="btn btn-info ">Глава №2</a></li>
+            <li>
+                <a  href="#" class="btn btn-info " data-toggle="dropdown"> Задания из текущей главы <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="../Chapter_1/Zadaniye_2_Rotating%20cube.html"> <em>Задание №2</em></a></li>
+                </ul>
+            </li>
+            <li class="divider"></li>
+
         </ul>
     </div>
 
     <div class="page-header">
         <h1>Глава №1, Задание №1. Белый треугольник на красном фоне.</h1>
     </div>
+
+    </br>
 
     </br>
     <canvas id="canvas3D" width="400" height="300">Ваш браузер не поддерживает элемент canvas</canvas>
