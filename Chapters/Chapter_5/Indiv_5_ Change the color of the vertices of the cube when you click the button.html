@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>3D in WebGL!</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+<h2> <em>Индивидуальное задание №5 к главе 5. Изменение цвета вершин куба при нажатии на кнопку.</em></h2>
+<canvas id="canvas3D" width="400" height="300">Ваш браузер не поддерживает элемент canvas</canvas>
+<script  type="text/javascript" src="../../js/gl-matrix-min.js"></script>
+<div>
+    <button id="changeColor" >
+        Изменить цвет каждой вершины куба
+    </button>
+</div>
+
+<script id="shader-fs" type="x-shader/x-fragment">
+varying highp vec4 vColor;
+  void main(void) {
+    gl_FragColor = vColor;
+  }
+</script>
+
+<script id="shader-vs" type="x-shader/x-vertex">
+attribute vec3 aVertexPosition;
+attribute vec3 aVertexColor;
+varying highp vec4 vColor;
+uniform mat4 uMVMatrix;
+uniform mat4 uPMatrix;
+  void main(void) {
+     gl_Position = uPMatrix * uMVMatrix * vec4(aVertexPosition, 1.0);
+      vColor = vec4(aVertexColor, 1.0);
+  }
+</script>
+<script src="../../js/Chapter_5/Indiv_zad_5.js"></script>
+</body>
+</html>

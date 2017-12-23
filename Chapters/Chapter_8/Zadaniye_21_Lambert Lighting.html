@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>3D in WebGL!</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+<h2> <em>Глава №8, Задание №21. Освещение Ламберта.</em></h2>
+<canvas id="canvas3D" width="400" height="300">Ваш браузер не поддерживает элемент canvas</canvas>
+<script  type="text/javascript" src="../../js/gl-matrix-min.js"></script>
+
+<script id="shader-vs" type="x-shader/x-vertex">
+  attribute vec3 aVertexPosition;
+  attribute vec3 aVertexNormal;
+
+  uniform mat4 uMVMatrix;
+  uniform mat4 uPMatrix;
+  uniform mat3 uNMatrix;
+
+  uniform vec3 uLightPosition;
+  uniform vec3 uDiffuseLightColor;
+
+  uniform vec3 uDiffuseMaterialColor;
+
+  varying vec3 vLightWeighting;
+
+
+  void main() {
+    // установка позиции наблюдателя сцены
+    vec4 vertexPositionEye4 = uMVMatrix * vec4(aVertexPosition, 1.0);
+    vec3 vertexPositionEye3 = vertexPositionEye4.xyz / vertexPositionEye4.w;
+
+    // получаем вектор направления света
+    vec3 lightDirection = normalize(uLightPosition - vertexPositionEye3);
+    // получаем нормаль
+    vec3 normal = normalize(uNMatrix * aVertexNormal);
+
+     // получаем скалярное произведение векторов нормали и направления света
+    float lambertTerm = max(dot(normal, lightDirection), 0.0);
+
+    // отраженный свет равен диффузному отражению света
+   vLightWeighting = uDiffuseMaterialColor * uDiffuseLightColor * lambertTerm;
+
+     gl_Position = uPMatrix * uMVMatrix * vec4(aVertexPosition, 1.0);
+  }
+</script>
+
+<script id="shader-fs" type="x-shader/x-fragment">
+  precision mediump float;
+
+  varying vec3 vLightWeighting;
+
+  void main() {
+    gl_FragColor = vec4(vLightWeighting.rgb, 1);
+  }
+</script>
+
+<script src="../../js/Chapter_8/Chap_8_Zad_21.js"></script>
+</body>
+</html>
