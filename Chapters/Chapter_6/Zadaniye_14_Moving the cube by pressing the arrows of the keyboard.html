@@ -1,13 +1,45 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>3D in WebGL!</title>
-    <meta charset="utf-8" />
-    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> Computer graphics and geometry" </title>
+
+    <!-- Bootstrap CSS -->
+    <link href="../../css/bootstrap.css" rel="stylesheet">
     </head>
 <body>
-<h2> <em>Глава №6, Задание №14. Перемещение куба по нажатию стрелок клавиатуры.</em></h2>
+<nav class="navbar navbar-inverse">.
+    <a class="navbar-brand" href="#"><strong><em>Компьютерная геометрия и графика</em></strong></a>
+</nav>
+
+<div class="container">
+
+    <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+            <li><a href ="../../index.html" class="btn btn-info ">Главная страница</a></li>
+            <li><a href="../Chapter_6/Indiv_6_Moving%20the%20cube%20by%20pressing%20the%20arrows%20of%20the%20W,A,S,D.html" class="btn btn-info ">Индивидуальное задание к главе №6</a></li>
+            <li>
+                <a  href="#" class="btn btn-info " data-toggle="dropdown"> Задания из текущей главы <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="../Chapter_6/Zadaniye_13_Animation%20cube.html"> <em>Задание №13</em></a></li>
+
+                </ul>
+            </li>
+            <li class="divider"></li>
+
+        </ul>
+    </div>
+
+    <div class="page-header">
+        <h1>Глава №6, Задание №14. Перемещение куба по нажатию стрелок клавиатуры.</h1>
+    </div>
+
+    </br>
 <canvas id="canvas3D" width="400" height="300">Ваш браузер не поддерживает элемент canvas</canvas>
+</div>
 <script  type="text/javascript" src="../../js/gl-matrix-min.js"></script>
 
 <script id="shader-fs" type="x-shader/x-fragment">
@@ -25,5 +57,8 @@
   }
 </script>
 <script src="../../js/Chapter_6/Chap_6_Zad_14.js"></script>
+<script src="../../js/gl-matrix.js"></script>
+<script src="../../js/jquery-3.2.1.min.js"></script>
+<script src="../../js/bootstrap.min.js"></script>
 </body>
 </html>
