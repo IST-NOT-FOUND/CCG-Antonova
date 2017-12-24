@@ -229,7 +229,7 @@ function setTextures(){
         handleTextureLoaded(image, texture);
     }
 
-    image.src = "../Images/brickwall.png";
+    image.src = "../../Images/brickwall.png";
 
     shaderProgram.samplerUniform = gl.getUniformLocation(shaderProgram, "uSampler");
     gl.uniform1i(shaderProgram.samplerUniform, 0);
